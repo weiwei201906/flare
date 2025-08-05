@@ -213,3 +213,7 @@ For simple comparison purposes, we have provided [preliminary performance data](
 - We rely on a lot of [third party libraries](thirdparty/) from the open source community, standing on the shoulders of giants allows us to develop this project faster and better, and therefore actively give back to the open source community.
 
 We'd like to express our sincere gratitude and appreciation to them.
+
+## Extension
+
+- TODO: The project will attempt to add Kafka's C++ development environment to the framework.

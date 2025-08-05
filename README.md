@@ -204,3 +204,7 @@ void FancyServiceImpl::FancyJob(const FancyJobRequest& request,
 - 我们依赖了不少开源社区的[第三方库](thirdparty/)，站在巨人的肩膀上使得我们可以更快更好地开发本项目，也因此积极地回馈给开源社区。
 
 在此，我们对上述项目一并致以谢意。
+
+##扩展
+
+- TODO:本项目将尝试为此框架添加Kafka的C++开发环境
